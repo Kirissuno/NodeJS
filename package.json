@@ -1,0 +1,24 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Taller NodeJS y Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kirissuno/NodeJS.git"
+  },
+  "author": "Robert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kirissuno/NodeJS/issues"
+  },
+  "homepage": "https://github.com/Kirissuno/NodeJS#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "voca": "^1.4.0"
+  }
+}
